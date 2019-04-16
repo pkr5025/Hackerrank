@@ -1,4 +1,5 @@
-//Note Hackerrank gave all of the code except for the sockMerchant function that I wrote
+//Hackerrank Url listed below
+//https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
 
 #include <bits/stdc++.h>
 #include <set>
